@@ -1,0 +1,41 @@
+First Name,Last Name,Company,Title,Email,Phone,Website,planted_fault,true_seniority
+Kesta,Eastlake,Maplewell Systems,Director of IT,kesta22@maplewell-systems.example,+1 212 555 0111,maplewell-systems.example,,Director
+Calla,Hartwell,Copperridge Supply,Account Executive,calla.hartwell@copperridge-supply.example,17205550107,copperridge-supply.example/,,Staff
+Mira,Bellweather,Silverwell Group,Office Manager,mbellweather156@mailinator.com,17205550139,silverwell-group.example/,disposable,Manager
+Fenn,Dunmore,Lumenpoint Partners,President,fdunmore@lumenpoint-partners.example,17205550107,https://www.lumenpoint-partners.example,,C-level
+Pell,Varga,Summitline Analytics,Buyer,Pvarga@SUMMITLINE-ANALYTICS.EXAMPLE,206-555-0131,summitline-analytics.example/,,Staff
+Yara,Hartwell,Copperpoint Logistics,Dir. Finance,Yara73@COPPERPOINT-LOGISTICS.EXAMPLE,(720) 555-0109,copperpoint-logistics.example/,,Director
+Nolan,Farrow,Granitestone Health,CEO,Nfarrow@GRANITESTONE-HEALTH.EXAMPLE,303.555.0188,granitestone-health.example/,,C-level
+Pell,Stanhope,Harborfield Systems,Marketing Manager,pstanhope@harborfield-systems.example,12065550182,harborfield-systems.example/,,Manager
+Orla,Jessop,Ironline Analytics,"Team Lead, Support",orla.jessop@ironline-analytics.example,+1 720 555 0114,https://www.ironline-analytics.example,,Manager
+Greer,Zoller,Bluestone Partners,Ops Supervisor,gzoller261@guerrillamail.com,+1 415 555 0157,bluestone-partners.example/,disposable,Manager
+Ines,Eastlake,Mapleridge Logistics,Dir. Finance,ines63@mapleridge-logistics.example,415-555-0110,https://www.mapleridge-logistics.example,,Director
+Hollis,Varga,,Sales Director,hollis33@silverwell-health.example,14155550153,silverwell-health.example,missing,Director
+Tamsin,Stanhope,Granitestone Labs,Buyer,Tstanhope@GRANITESTONE-LABS.EXAMPLE,(000) 555-0101,granitestone-labs.example,phone,Staff
+Ulla,Marchetti,Brightgate Systems,Office Manager,ulla.marchetti@brightgate-systems.example,(303) 555-0176,https://www.brightgate-systems.example,,Manager
+Calla,Hartwell,Copperridge Supply,Buyer,  CALLA.HARTWELL@COPPERRIDGE-SUPPLY.EXAMPLE ,17205550107,copperridge-supply.example/,dup_email,Staff
+Ulla,Ivers,Granitepoint Analytics,CEO,Uivers.5066@gmail.com,+1 404 555 0161,granitepoint-analytics.example,freemail,C-level
+Calla,Eastlake,Copperbrook Logistics,VP of Sales,sales@copperbrook-logistics.example,602-555-0146,copperbrook-logistics.example/,role,VP
+Rhea,Ashgrove,Summitpath Systems,Software Engineer,rhea43@summitpath-systems.example,303-555-0198,summitpath-systems.example/,,Staff
+Rhea,Zoller,Summitbrook Partners,VP Engineering,rhea34@summitbrook-partners.example.,+1 617 555 0166,summitbrook-partners.example,email_syntax,VP
+Xavi,Ashgrove,Brightpath Health,SVP Marketing,Xashgrove@BRIGHTPATH-HEALTH.EXAMPLE,(303) 555-0146,https://www.brightpath-health.example,,VP
+Dorian,Hartwell,Harborgate Analytics,Marketing Manager,Dorian.Hartwell773@10minutemail.com,(303) 555-0182,harborgate-analytics.example/,disposable,Manager
+Dorian,Marchetti,Irongate Health,"Team Lead, Support",dorian.marchetti@irongate-health.example,+1 512 555 0159,irongate-health.example/,,Manager
+Calla,Yardley,Northstone Group,VP Engineering,calla.yardley@northstone-group.example,+1 720 555 0176,northstone-group.example/,,VP
+Lorne,Eastlake,Summitridge Group,CEO,lorne.eastlake@summitridge-group.example,512-555-0124,https://www.summitridge-group.example,,C-level
+Ines,Galloway,Blueridge Partners,Dir. Finance,ines51144@10minutemail.com,212.555.0194,blueridge-partners.example,disposable,Director
+Vance,Stanhope,Summitline Group,Accountant,vance29@summitline-group.example,404-555-0199,summitline-group.example/,,Staff
+Avery,Zoller,Northstone Group,Account Executive,azoller@northstone-group.example,13035550187,northstone-group.example/,,Staff
+Rhea,Pendry,Copperridge Labs,SVP Marketing,rhea.pendry@copperridge-labs,+1 312 555 0164,copperridge-labs.example/,email_syntax,VP
+Avery,Zoller,Copperworks Analytics,Accountant,avery74@copperworks-analytics.example,12065550157,copperworks-analytics.example/,,Staff
+Zeke,Pendry,Summitgate Logistics,Office Manager,Zeke35@SUMMITGATE-LOGISTICS.EXAMPLE,+1 312 555 0150,summitgate-logistics.example,,Manager
+Calla,Varga,Silverline Systems,Director of IT,calla.varga@silverline-systems.example,303.555.0118,https://www.silverline-systems.example,,Director
+Orla,Hartwell,Ironfield Supply,"Vice President, Operations",ohartwell@ironfield-supply.example,+1 512 555 0165,ironfield-supply.example,,VP
+Nolan,Galloway,Granitebrook Systems,Co-Founder,Nolan56GRANITEBROOK-SYSTEMS.EXAMPLE,(404) 555-0190,granitebrook-systems.example,email_syntax,C-level
+,Quillan,Lumenpath Systems,VP of Sales,kesta.quillan@lumenpath-systems.example,(206) 555-0134,https://www.lumenpath-systems.example,missing,VP
+Ines,Zoller,Northline Logistics,VP Engineering,Izoller@NORTHLINE-LOGISTICS.EXAMPLE,(312) 555-0135,northline-logistics.example/,,VP
+Fenn,Nettleton,Copperpath Labs,Director of IT,fenn21@copperpath-labs.example,(312) 555-0133,copperpath-labs.example,,Director
+Avery,Kittredge,Summitline Logistics,President,avery26@summitline-logistics,312.555.0120,https://www.summitline-logistics.example,email_syntax,C-level
+Fenn,Galloway,Bluepath Partners,Office Manager,Fgalloway@BLUEPATH-PARTNERS.EXAMPLE,303.555.0102,https://www.bluepath-partners.example,,Manager
+Avery,Ashgrove,Ironridge Partners,VP Engineering,avery70@ironridge-partners.example,555-0142,ironridge-partners.example/,phone,VP
+Mira,Quillan,Bluegate Partners,"Vice President, Operations",Mquillan@BLUEGATE-PARTNERS.EXAMPLE,303-555-0106,https://www.bluegate-partners.example,,VP

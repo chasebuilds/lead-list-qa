@@ -1,0 +1,17 @@
+# Common free personal mail domains.
+gmail.com
+googlemail.com
+yahoo.com
+hotmail.com
+outlook.com
+live.com
+msn.com
+aol.com
+icloud.com
+me.com
+mail.com
+gmx.com
+proton.me
+protonmail.com
+zoho.com
+yandex.com

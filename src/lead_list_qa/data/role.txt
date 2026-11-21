@@ -1,0 +1,20 @@
+# Local parts that usually reach a shared inbox, not a person.
+admin
+billing
+contact
+enquiries
+hello
+help
+hr
+info
+inquiries
+jobs
+marketing
+noreply
+no-reply
+office
+press
+sales
+support
+team
+webmaster
