@@ -13,3 +13,4 @@ htmlcov/
 benchmark/data/
 leadqa-out/
 ~$*.xlsx
+_site/

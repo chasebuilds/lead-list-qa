@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/chasebuilds/lead-list-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/chasebuilds/lead-list-qa/actions/workflows/ci.yml) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue) [![MIT license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+**[Live demo: try it in your browser](https://chasebuilds.github.io/lead-list-qa/)**. Drop in your own file or run the bundled sample with one click. The real package runs in the page with Pyodide, so files never leave your browser.
+
+[![The live demo after running the sample: the tool's summary, result tabs and output table](docs/demo.png)](https://chasebuilds.github.io/lead-list-qa/)
+
 Checks a B2B contact list (CSV or Excel) before outreach. Each row gets a score out of 100 and the reasons behind it. Rows with no problems go to a Clean sheet, rows with problems go to a Review sheet, and repeats of the same person go to a Removed duplicates sheet. Everything runs offline: no email verification service, no sending, no scraping, no API keys.
 
 ## Measured result
