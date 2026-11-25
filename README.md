@@ -98,3 +98,11 @@ The sample file was made with `python -m benchmark.generate --seed 7 --people 40
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## More from Chase Builds
+
+- **[product-matcher](https://github.com/chasebuilds/product-matcher)**: Match products between two lists by SKU, units and fuzzy names. ([live demo](https://chasebuilds.github.io/product-matcher/))
+- **[json-to-tables](https://github.com/chasebuilds/json-to-tables)**: Nested JSON to tidy related tables in Excel, CSV or SQLite. ([live demo](https://chasebuilds.github.io/json-to-tables/))
+- **[excel-to-sql](https://github.com/chasebuilds/excel-to-sql)**: Load CSV and Excel into SQL with type inference and a load report. ([live demo](https://chasebuilds.github.io/excel-to-sql/))
+
+[All projects, sorted by industry](https://github.com/chasebuilds) · [chasebuilds.github.io](https://chasebuilds.github.io)
